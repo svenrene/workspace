@@ -1,0 +1,3 @@
+978-3596901951,melville,moby dick,12.5
+978-3866477735,dickens,oliver twist,4.95
+978-3866476981,twain,tom sawyer and huckleberry finn,7.95

@@ -1,0 +1,4 @@
+public,static,void
+enum,default,protected
+const,do,while,int
+double,for,private
